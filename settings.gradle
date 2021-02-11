@@ -1,0 +1,2 @@
+rootProject.name = "NalogaMagnituda"
+include ':app'
